@@ -1,0 +1,5 @@
+/configuration.properties
+/.idea/
+
+# Project exclude paths
+/target/
